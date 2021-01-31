@@ -1,4 +1,0 @@
-i commit few changes
-
-
-this is the final commit and the changes were made in the feeature1 branch
